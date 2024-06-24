@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371640542440",
+    "project_id": "meatzy-9f511",
+    "storage_bucket": "meatzy-9f511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371640542440:android:a271d70ae9ccce4aa8155d",
+        "android_client_info": {
+          "package_name": "com.example.meatzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoMKZ4Ay3PNKliiKlAEo5sRzOVjpGBY7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371640542440-20sicp8e6i1lhr15ou2m6s8u0ncnlq8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
